@@ -1,7 +1,7 @@
 ![Cover Photo](https://github.com/Snehaa244/Cover-Image/blob/main/Sneha%20Parmar.png)
 
 <h1 align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B801&width=600&lines=👋+Hello,+I'm+Sneha+Parmar;💻+A+Passionate+Frontend+Developer;🎨+Creative+UI/UX+Designer"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B801&width=600&lines=👋+Hello,+I'm+Sneha+Parmar;💻+A+Passionate+Developer;🎨+Creative+UI/UX+Designer"></a>
 </h1>
 
 ---
