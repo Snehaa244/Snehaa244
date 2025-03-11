@@ -1,18 +1,63 @@
-# 💫 About Me:
-I'm a Software Engineer with a strong passion for Frontend Development and UI/UX Design. I have good hands-on experience in creating seamless and interactive user interfaces using modern frameworks like React.js, Next.js, GSAP, and Three.js. My deep understanding of HTML, CSS, and JavaScript allows me to build clean, responsive, and visually appealing web applications.<br><br>Apart from coding, I'm highly enthusiastic about design and have expertise in design tools such as Figma, Canva, Adobe, and Sketch. I enjoy bringing my creative ideas to life through stunning user interfaces and captivating web experiences.<br><br>In my journey so far, I have won 2 National Level Hackathons and successfully cleared multiple coding contest rounds, showcasing my problem-solving and technical skills. I constantly strive to push my boundaries and create impactful solutions that blend functionality with exceptional design.<br><br>💡 “Design what you think, build what you design.” currently learnjing backend <br>
+![Cover Photo](https://source.unsplash.com/1600x500/?design,technology)
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&width=500&lines=Hello%2C+I'm+Sneha+Parmar!;A+Passionate+Frontend+Developer;UI%2FUX+Designer+%7C+Problem+Solver"/>
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sneha.parma_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sneha-parmar/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@parmarsneha789) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/parmarsneha789/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parmarsneha789@gmail.com) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Snehaa244&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Snehaa244&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snehaa244&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I'm a **Software Engineer** with a strong passion for **Frontend Development** and **UI/UX Design**. I have **good hands-on experience** in creating seamless and interactive user interfaces using modern frameworks like **React.js, Next.js, GSAP, and Three.js**. My deep understanding of **HTML, CSS, and JavaScript** allows me to build clean, responsive, and visually appealing web applications.
+
+Apart from coding, I'm **highly enthusiastic about design** and have expertise in **design tools** such as **Figma, Canva, Adobe, and Sketch**. I enjoy bringing my creative ideas to life through **stunning user interfaces and captivating web experiences**.
+
+In my journey so far, I have **won 2 National Level Hackathons** and successfully **cleared multiple coding contest rounds**, showcasing my problem-solving and technical skills. I constantly strive to push my boundaries and create impactful solutions that blend functionality with exceptional design.
+
+💡 **“Design what you think, build what you design.”**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Snehaa244&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+**Languages:**  
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+
+**Design Tools:**  
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma) ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva) ![Adobe](https://img.shields.io/badge/-Adobe-05122A?style=flat&logo=adobe)
+
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+
+**Libraries & Others:**  
+![GSAP](https://img.shields.io/badge/-GSAP-05122A?style=flat&logo=greensock) ![Three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js) ![Chart.js](https://img.shields.io/badge/-Chart.js-05122A?style=flat&logo=chart.js) ![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=reactrouter)
+
+---
+
+## 🏆 Achievements
+- 🏆 **2x National Level Hackathon Winner**
+- 💻 Cleared multiple coding contest rounds in national-level competitions.
+- 🎨 Built multiple visually appealing UI/UX projects using **Figma, Canva, Adobe, and Sketch**.
+- 💡 Helped multiple startups enhance their web presence with high-quality designs and frontend development.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=snehaparmar&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehaparmar&theme=radical" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+💼 **Portfolio:** [snehaparmar.dev](https://snehaparmar.dev)  
+💌 **Email:** [snehaparmar@gmail.com](mailto:snehaparmar@gmail.com)  
+💬 **LinkedIn:** [linkedin.com/in/snehaparmar](https://linkedin.com/in/snehaparmar)  
+💻 **GitHub:** [github.com/snehaparmar](https://github.com/snehaparmar)  
+🎨 **Dribbble:** [dribbble.com/snehaparmar](https://dribbble.com/snehaparmar)
+
+---
+
+![Second Photo](https://source.unsplash.com/1200x400/?webdesign,creative)
