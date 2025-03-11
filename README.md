@@ -1,12 +1,8 @@
-![Cover Photo](https://source.unsplash.com/1600x500/?design,creativity)
+![Cover Photo](https://github.com/Snehaa244/Cover-Image/blob/main/Sneha%20Parmar.png)
 
 <h1 align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B801&width=600&lines=👋+Hello,+I'm+Sneha+Parmar;💻+A+Passionate+Frontend+Developer;🎨+Creative+UI/UX+Designer"></a>
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=F7B801&center=true&vCenter=true&width=600&height=70&lines=🚀+Hello,+I'm+Sneha+Parmar"/>
-</p>
 
 ---
 
@@ -80,4 +76,5 @@ I'm highly enthusiastic about working with **foreign clients** and delivering **
 ---
 
 💡 **I’m open to freelance projects, collaborations, and creative work opportunities.** 🚀🎨
+
 
