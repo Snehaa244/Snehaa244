@@ -69,12 +69,10 @@ I'm highly enthusiastic about working with **foreign clients** and delivering **
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sneha-parmar&show_icons=true&theme=radical" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-parmar&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehaa244&show_icons=true&theme=radical" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehaa244&theme=radical" width="50%" />
 </p>
 
 ---
 
 💡 **I’m open to freelance projects, collaborations, and creative work opportunities.** 🚀🎨
-
-
