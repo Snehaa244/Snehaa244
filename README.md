@@ -13,7 +13,7 @@ I'm a **Software Engineer** with a deep passion for **Frontend Development** and
 I'm also highly skilled in **React.js, Next.js, GSAP, Three.js, HTML, CSS, JavaScript, Python, Node.js, MySQL, MongoDB, Chart.js, React Rechart, React Router, C, C++, Power BI, and more**.
 
 💎 **Achievements:**
-- 🏆 **Won 2 National Level Hackathons.**
+- 🏆 **Won 3 National Level Hackathons.**
 - 💻 **Cleared multiple rounds of competitive coding contests.**
 - 🎨 **Worked on several design-based freelance projects.**
 
