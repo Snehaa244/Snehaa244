@@ -109,7 +109,7 @@ An **Explainable AI system** for **detecting money laundering transactions** usi
 
 ### HealthXAI-Project  
 An **AI-powered healthcare platform** integrating **image analysis, predictive modeling, and real-time patient monitoring**.  
-**Tech:** Python, PyTorch, OpenCV, Node.js, Express.js, Next.js, MongoDB
+**Tech:** Python, OpenCV, Node.js, Express.js, Next.js, MongoDB
 🔗 [Live Demo](https://healthxaimain-1zny.vercel.app/login)
 
 ### CareerConnectFullStack  
