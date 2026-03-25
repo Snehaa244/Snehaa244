@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B801&width=650&lines=👋+Hello,+I'm+Sneha+Parmar;💻+Full+Stack+Developer+|+GenAI+Enthusiast;🚀+React+%7C+Next.js+%7C+Node.js;🎨+UI/UX+Designer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B801&width=650&lines=👋+Hello,+I'm+Sneha+Parmar;💻+Full+Stack+Developer+%7C+GenAI+Enthusiast;🚀+React+%7C+Next.js+%7C+Node.js;🎨+UI/UX+Designer">
   </a>
 </h1>
 
@@ -10,32 +10,36 @@
 
 # 👩‍💻 About Me
 
-Hi, I'm **Sneha Parmar**, a passionate **Full Stack Developer & Gen AI Enthusiast**.  
-I love building **modern, scalable web applications** and integrating **AI-driven solutions** to enhance user experiences.
+Hi, I'm **Sneha Parmar**, a **Full Stack Developer & Generative AI Enthusiast**.  
+I enjoy **transforming ideas into modern, scalable, and visually stunning web applications**.  
 
-- Specialized in **Frontend & Full Stack Development** (React, Next.js, Node.js)  
-- Experienced in **UI/UX Design** and creating **interactive web interfaces**  
-- Exploring **Generative AI, LangChain, and Vector Databases** for intelligent applications  
-- Thrives on **hackathons, real-world projects, and innovative tech solutions**
+I specialize in **Frontend & Full Stack Development** using **React, Next.js, and Node.js**, and I integrate **AI-driven solutions** to enhance user experiences.  
+With a strong foundation in **UI/UX design**, I build interfaces that are **functional, interactive, and beautiful**.  
+
+I love working on **hackathons, real-world projects, and innovative AI applications** that make an impact.  
 
 ---
 
-# 🚀 Achievements
+# 🏆 Achievements
 
-🏆 Winner of **3 National Level Hackathons**  
-💻 Solved multiple **DSA problems**  
-🎨 Built several **UI/UX & freelance projects**  
-🤖 Developed **AI, Healthcare, FinTech, and GenAI-powered applications**
+<p align="center">
+🎖 <b>Winner of 3 National Level Hackathons</b> <br>
+💻 <b>Expert in Data Structures & Algorithms</b> <br>
+🎨 <b>Worked on multiple UI/UX and freelance projects</b> <br>
+🚀 <b>Developed AI, Healthcare, FinTech, and GenAI-powered applications</b>
+</p>
 
 ---
 
 # 🧠 What I Do
 
-💻 Full Stack Web Development  
-🤖 Generative AI & LangChain Integration  
-🎨 UI / UX Design & Interactive Animations  
-📊 Data Visualization & AI-driven Dashboards  
-🚀 AI & Web App Prototyping  
+<p align="center">
+💻 Full Stack Web Development & Interactive UI <br>
+🤖 Generative AI & LangChain Integration <br>
+📊 Data Visualization & AI-driven Dashboards <br>
+🎨 UI / UX Design & Creative Web Animations <br>
+🚀 AI & Web App Prototyping
+</p>
 
 ---
 
@@ -88,30 +92,21 @@ I love building **modern, scalable web applications** and integrating **AI-drive
 
 # 💼 Top Projects
 
-### [MultiverseGenAI](#)  
-Generative AI platform leveraging **LangChain & vector databases** to create intelligent, multi-agent workflows.  
+### MultiverseGenAI  
+A **Generative AI platform** combining **LangChain and vector databases** to create **multi-agent intelligent workflows**, enabling dynamic AI solutions for diverse problems.  
 🔗 [Live Demo](#)
 
-### [MoneyXAI](#)  
-Explainable AI for **detecting money laundering** using XGBoost and SMOTE for imbalanced datasets.  
+### MoneyXAI  
+An **Explainable AI system** for detecting **money laundering transactions** using **XGBoost and SMOTE**, enhancing fraud detection with interpretable predictions.  
 🔗 [Live Demo](#)
 
-### [HealthXAI-Project](#)  
-AI-driven healthcare platform integrating **image analysis, predictive models, and real-time patient data**.  
+### HealthXAI-Project  
+An **AI-powered healthcare platform** integrating **image analysis, predictive modeling, and real-time patient monitoring**, designed to improve medical decision-making.  
 🔗 [Live Demo](#)
 
-### [CareerConnectFullStack](#)  
-Full-stack career platform connecting **mentors and mentees**, built with React, Node.js, and MongoDB.  
+### CareerConnectFullStack  
+A **full-stack career mentorship platform** connecting **mentors and mentees**, featuring interactive dashboards and modern UI built with React, Node.js, and MongoDB.  
 🔗 [Live Demo](#)
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Snehaa244&show_icons=true&theme=radical&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehaa244&theme=radical&hide_border=true"/>
-</p>
 
 ---
 
@@ -144,9 +139,7 @@ Full-stack career platform connecting **mentors and mentees**, built with React,
 # ⚡ Fun Fact
 
 💡 Turning **creative ideas into real digital experiences**  
-🚀 Exploring **new tech, AI tools, and interactive web designs**
-
----
+🚀 Exploring **new tech, AI tools, and interactive web designs**  
 
 ⭐ **If you like my work, consider giving a star to my repositories!**  
-💡 **Open to freelance projects, collaborations, and AI/creative work opportunities.**
+💡 **Open to freelance projects, collaborations, and AI/creative opportunities.****Open to freelance projects, collaborations, and AI/creative work opportunities.**
