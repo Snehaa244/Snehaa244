@@ -2,12 +2,12 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B801&width=650&lines=👋+Hello,+I'm+Sneha+Parmar;💻+Full+Stack+Developer+%7C+GenAI+Enthusiast;🚀+React+%7C+Next.js+%7C+Node.js+%7C+GenAI;🎨+UI/UX+Designer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B801&width=650&lines=👋+Hello,+I'm+Sneha+Parmar;💻+Full+Stack+Developer+%7C+GenAI;🚀+React+%7C+Next.js+%7C+Node.js+%7C+GenAI;🎨+UI/UX+Designer">
   </a>
 </h1>
 
 <p align="center">
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-F7B801?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-F7B801?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolios-rho-two.vercel.app/)
 </p>
 
 ---
@@ -88,9 +88,8 @@ I thrive on **hackathons, real-world projects, and innovative AI applications** 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FDAE3B?style=for-the-badge&logo=huggingface&logoColor=white)
 
-> Additional tools: **scikit-learn, xgboost, lightgbm, spaCy, NLTK, transformers, faiss, chromadb, streamlit, Gradio, matplotlib, seaborn**
+> Additional tools: **scikit-learn, xgboost, transformers, faiss, chromadb, streamlit,matplotlib, seaborn**
 
 ---
 
@@ -98,23 +97,23 @@ I thrive on **hackathons, real-world projects, and innovative AI applications** 
 
 ### MultiverseGenAI  
 A **Generative AI platform** combining **LangChain and vector databases** to create **multi-agent intelligent workflows**.  
-**Tech:** Python, LangChain, Vector DB, OpenAI, Streamlit  
-🔗 [Live Demo](#)
+**Tech:** Python, LangChain, Vector DB, Next.js, Node.js, GenAI  
+🔗 [Live Demo](https://multiverseai-git-main-sneha-parmars-projects.vercel.app/dashboard/explore)
 
 ### MoneyXAI  
 An **Explainable AI system** for **detecting money laundering transactions** using **XGBoost and SMOTE**.  
-**Tech:** Python, XGBoost, Pandas, NumPy, Streamlit  
-🔗 [Live Demo](#)
+**Tech:** Python, XGBoost, Pandas, NumPy, Streamlit, joblib  
+🔗 [Live Demo](https://moneyxai.streamlit.app/)
 
 ### HealthXAI-Project  
 An **AI-powered healthcare platform** integrating **image analysis, predictive modeling, and real-time patient monitoring**.  
-**Tech:** Python, TensorFlow, PyTorch, OpenCV, Flask  
-🔗 [Live Demo](#)
+**Tech:** Python, PyTorch, OpenCV, Node.js, Express.js, Next.js, MongoDB
+🔗 [Live Demo](https://healthxaimain-1zny.vercel.app/login)
 
 ### CareerConnectFullStack  
 A **full-stack career mentorship platform** connecting **mentors and mentees** with interactive dashboards.  
 **Tech:** React, Next.js, Node.js, MongoDB  
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://careerconnect-gold.vercel.app/)
 
 ---
 
