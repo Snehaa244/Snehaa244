@@ -6,9 +6,11 @@
   </a>
 </h1>
 
-<div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-F7B801?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolios-rho-two.vercel.app/)
-</div>
+<p align="center">
+  <a href="https://portfolios-rho-two.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-F7B801?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
+</p>
 
 ---
 
