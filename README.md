@@ -2,9 +2,13 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B801&width=650&lines=👋+Hello,+I'm+Sneha+Parmar;💻+Full+Stack+Developer+%7C+GenAI+Enthusiast;🚀+React+%7C+Next.js+%7C+Node.js;🎨+UI/UX+Designer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B801&width=650&lines=👋+Hello,+I'm+Sneha+Parmar;💻+Full+Stack+Developer+%7C+GenAI+Enthusiast;🚀+React+%7C+Next.js+%7C+Node.js+%7C+GenAI;🎨+UI/UX+Designer">
   </a>
 </h1>
+
+<p align="center">
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-F7B801?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+</p>
 
 ---
 
@@ -13,10 +17,10 @@
 Hi, I'm **Sneha Parmar**, a **Full Stack Developer & Generative AI Enthusiast**.  
 I enjoy **transforming ideas into modern, scalable, and visually stunning web applications**.  
 
-I specialize in **Frontend & Full Stack Development** using **React, Next.js, and Node.js**, and I integrate **AI-driven solutions** to enhance user experiences.  
-With a strong foundation in **UI/UX design**, I build interfaces that are **functional, interactive, and beautiful**.  
+I specialize in **Frontend & Full Stack Development** using **React, Next.js, Node.js**, and integrate **AI-driven solutions** for smarter, interactive experiences.  
+With a strong foundation in **UI/UX design**, I build interfaces that are **functional, intuitive, and beautiful**.  
 
-I love working on **hackathons, real-world projects, and innovative AI applications** that make an impact.  
+I thrive on **hackathons, real-world projects, and innovative AI applications** that make an impact.  
 
 ---
 
@@ -25,8 +29,8 @@ I love working on **hackathons, real-world projects, and innovative AI applicati
 <p align="center">
 🎖 <b>Winner of 3 National Level Hackathons</b> <br>
 💻 <b>Expert in Data Structures & Algorithms</b> <br>
-🎨 <b>Worked on multiple UI/UX and freelance projects</b> <br>
-🚀 <b>Developed AI, Healthcare, FinTech, and GenAI-powered applications</b>
+🎨 <b>Delivered multiple UI/UX & freelance projects</b> <br>
+🚀 <b>Built AI, Healthcare, FinTech & GenAI applications</b>
 </p>
 
 ---
@@ -93,19 +97,23 @@ I love working on **hackathons, real-world projects, and innovative AI applicati
 # 💼 Top Projects
 
 ### MultiverseGenAI  
-A **Generative AI platform** combining **LangChain and vector databases** to create **multi-agent intelligent workflows**, enabling dynamic AI solutions for diverse problems.  
+A **Generative AI platform** combining **LangChain and vector databases** to create **multi-agent intelligent workflows**.  
+**Tech:** Python, LangChain, Vector DB, OpenAI, Streamlit  
 🔗 [Live Demo](#)
 
 ### MoneyXAI  
-An **Explainable AI system** for detecting **money laundering transactions** using **XGBoost and SMOTE**, enhancing fraud detection with interpretable predictions.  
+An **Explainable AI system** for **detecting money laundering transactions** using **XGBoost and SMOTE**.  
+**Tech:** Python, XGBoost, Pandas, NumPy, Streamlit  
 🔗 [Live Demo](#)
 
 ### HealthXAI-Project  
-An **AI-powered healthcare platform** integrating **image analysis, predictive modeling, and real-time patient monitoring**, designed to improve medical decision-making.  
+An **AI-powered healthcare platform** integrating **image analysis, predictive modeling, and real-time patient monitoring**.  
+**Tech:** Python, TensorFlow, PyTorch, OpenCV, Flask  
 🔗 [Live Demo](#)
 
 ### CareerConnectFullStack  
-A **full-stack career mentorship platform** connecting **mentors and mentees**, featuring interactive dashboards and modern UI built with React, Node.js, and MongoDB.  
+A **full-stack career mentorship platform** connecting **mentors and mentees** with interactive dashboards.  
+**Tech:** React, Next.js, Node.js, MongoDB  
 🔗 [Live Demo](#)
 
 ---
@@ -141,5 +149,11 @@ A **full-stack career mentorship platform** connecting **mentors and mentees**, 
 💡 Turning **creative ideas into real digital experiences**  
 🚀 Exploring **new tech, AI tools, and interactive web designs**  
 
-⭐ **If you like my work, consider giving a star to my repositories!**  
-💡 **Open to freelance projects, collaborations, and AI/creative opportunities.****Open to freelance projects, collaborations, and AI/creative work opportunities.**
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+🚀 Looking for **collaborations, freelance projects, or AI/creative opportunities**? <br>
+📧 <b>Email:</b> parmarsneha789@gmail.com
+</p>
