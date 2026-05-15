@@ -1,4 +1,4 @@
-![Cover Photo]([https://github.com/Snehaa244/Cover-Image/blob/main/Sneha%20Parmar.png](https://github.com/Snehaa244/Cover-Image/blob/main/ChatGPT%20Image%20May%2015%2C%202026%2C%2010_35_54%20PM.png)
+![Cover Photo](https://github.com/Snehaa244/Cover-Image/blob/main/ChatGPT%20Image%20May%2015,%202026,%2010_35_54%20PM.png?raw=true)
 
 <h1 align="center">
   <a href="#">
